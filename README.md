@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Engineer with 4+ years of experience managing cloud infrastructure and CI/CD automation for microservices-based platforms. Skilled in provisioning AWS environments (EKS, Lambda, S3), managing Terraform IaC, and deploying Java/Spring Boot and Python applications via Jenkins, GitHub Actions, and Argo CD. Experienced in container orchestration with Kubernetes and Helm, and experienced in working with distributed teams across time zones. Proactive communicator and self-driven contributor in agile environments.
+DevOps Engineer with 5+ years of experience managing cloud infrastructure and CI/CD automation for microservices-based platforms. Skilled in provisioning AWS environments (EKS, Lambda, S3), managing Terraform IaC, and deploying Java/Spring Boot and Python applications via Jenkins, GitHub Actions, and Argo CD. Experienced in container orchestration with Kubernetes and Helm, and experienced in working with distributed teams across time zones. Proactive communicator and self-driven contributor in agile environments.
 
 
 ## 🌐 Socials:
